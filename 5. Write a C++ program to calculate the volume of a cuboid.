@@ -3,9 +3,9 @@
 using namespace std;
 int  main()
 {
-    int l,w,h;
+    int x,y,z;
     cout<<"length, width and height of a cuboid"<<endl;
-    cin>>l>>w>>h;
-    cout<<"volume of cuboid is = "<<l*w*h;
+    cin>>x>>y>>z;
+    cout<<"volume of cuboid is = "<<x*y*z;
     return 0;
 }
